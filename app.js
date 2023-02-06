@@ -305,9 +305,6 @@ io.on("connection", (socket) => {
   // console.log("appjs쪽 : " + socket.id);
   socket.on("game_joinUser_data", (roomNum, userName) => {
     console.log("방번호: " + roomNum + "유저아이디 :" + userName);
-    console.log(
-      "2222222222222222방번호: " + roomNum + "유저아이디 :" + userName
-    );
   });
   socket.on("gameStart", () => {
     let _id = socket.id;
