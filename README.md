@@ -62,7 +62,7 @@
 <img src="https://raw.githubusercontent.com/Poltia/node_project/main/readme_img/0_intro.png" />
 three.js를 사용해서 화면 구현<br/>
 키보드 버튼으로 케릭터 이동 기능 구현<br/>
-지정 위치 도달시 화면 이동
+지정 위치 도달시 화면 이동<br/>
 
 <br/><br/>
 
@@ -78,7 +78,7 @@ three.js 사용해 모델 생성 및 출력<br/>
 
 <img src="https://raw.githubusercontent.com/Poltia/node_project/main/readme_img/2_signup.png" />
 three.js를 사용해 모델 생성 및 출력<br/>
-ID/password에 정규표현식 통과시 submit 가능
+ID/password에 정규표현식 통과시 submit 가능<br/>
 
 <br/><br/>
 
@@ -94,6 +94,7 @@ error message를 문구로 출력<br/>
 - 대기실(채팅방) 페이지
 
 <img src="https://raw.githubusercontent.com/Poltia/node_project/main/readme_img/3_chatroom.png" />
+Socket.io를 사용해 채팅 및 상태 문구 출력 기능 구현<br/>
 대기실 입장시 문구 출력<br/>
 현재 접속한 계정 출력<br/>
 게임방 입장시 alert로 방입장 출력<br/>
@@ -111,7 +112,8 @@ error message를 문구로 출력<br/>
 <br/>
 <img src="https://raw.githubusercontent.com/Poltia/node_project/main/readme_img/5_game.png" />
 키보드 버튼으로 모델 움직임 구현<br/>
-상대방 모델 클릭시 게임 종료
+상대방 모델 클릭시 게임 종료<br/>
+socket.io를 사용해 클릭 이벤트 감지<br/>
 
 <br/><br/>
 
@@ -120,4 +122,4 @@ error message를 문구로 출력<br/>
 <img src="https://raw.githubusercontent.com/Poltia/node_project/main/readme_img/6_win.png" />
 <img src="https://raw.githubusercontent.com/Poltia/node_project/main/readme_img/6_lose.png" />
 종료시 각 플레이어에 승리/패배 출력<br/>
-돌아가기 버튼 클릭시 대기실(채팅방)로 이동
+돌아가기 버튼 클릭시 대기실(채팅방)로 이동<br/>
